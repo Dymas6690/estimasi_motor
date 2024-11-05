@@ -1,0 +1,5 @@
+pandas
+numpy
+sklearn
+streamlit ==1.39.0
+matplotlib ==3.13.0
