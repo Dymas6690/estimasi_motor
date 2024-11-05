@@ -1,7 +1,7 @@
 import pickle
 import streamlit as st
 
-model = pickle.load(open('estimasi_motor.sav', 'rb'))
+model = pickle.load(open('estimasi_motor', 'rb'))
 
 st.title('Estimasi harga motor bekas')
 
